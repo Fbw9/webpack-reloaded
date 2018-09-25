@@ -2,6 +2,8 @@
  * Main project javascript file (entry point)
  */
 
-import '../scss/main.scss';
+import './_vendor';
+import './_app';
 
- console.log('hi');
+// Import css styles
+import '../scss/main.scss';
