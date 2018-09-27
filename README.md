@@ -1,1 +1,1 @@
-webpack 4 + reach + bootstrap + jquery
+webpack 4 + react + bootstrap + jquery
